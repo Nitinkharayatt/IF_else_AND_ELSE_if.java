@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cda886be-3e59-42fe-a285-fe03382f2d5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional Statments Alpha.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Alpha_question_Conditonal_statements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator_Using_Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IF_else_AND_ELSE_if.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Income_Tax_Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switch_Statements.java" afterDir="false" />
-    </list>
+    <list default="true" id="cda886be-3e59-42fe-a285-fe03382f2d5d" name="Changes" comment="initial comment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +16,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -99,6 +88,14 @@
       <option name="presentableId" value="Default" />
       <updated>1660853884539</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial comment">
+      <created>1660858850822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660858850822</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,5 +108,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial comment" />
   </component>
 </project>
